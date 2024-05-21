@@ -1,0 +1,10 @@
+C:\Users\cv\source\repos\PPB_Installer\PPB_Installer\bin\Debug\PPB_Installer.exe.config
+C:\Users\cv\source\repos\PPB_Installer\PPB_Installer\bin\Debug\PPB_Installer.exe
+C:\Users\cv\source\repos\PPB_Installer\PPB_Installer\bin\Debug\PPB_Installer.pdb
+C:\Users\cv\source\repos\PPB_Installer\PPB_Installer\obj\Debug\PPB_Installer.csproj.AssemblyReference.cache
+C:\Users\cv\source\repos\PPB_Installer\PPB_Installer\obj\Debug\PPB_Installer.Properties.Resources.resources
+C:\Users\cv\source\repos\PPB_Installer\PPB_Installer\obj\Debug\PPB_Installer.csproj.GenerateResource.cache
+C:\Users\cv\source\repos\PPB_Installer\PPB_Installer\obj\Debug\PPB_Installer.csproj.CoreCompileInputs.cache
+C:\Users\cv\source\repos\PPB_Installer\PPB_Installer\obj\Debug\PPB_Installer.exe
+C:\Users\cv\source\repos\PPB_Installer\PPB_Installer\obj\Debug\PPB_Installer.pdb
+C:\Users\cv\source\repos\PPB_Installer\PPB_Installer\obj\Debug\PPB_Installer.InstallerForm.resources
